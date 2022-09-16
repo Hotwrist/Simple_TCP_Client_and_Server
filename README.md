@@ -3,5 +3,5 @@ This is a simple TCP client and server program written in the C programming lang
 
 # Images
 Server and Client in Communication.
-![TCP server and client](tcp_server_client_com.png)
+![TCP server and client](tcp_client_server_com.png)
 
